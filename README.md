@@ -4,8 +4,8 @@ Welcome to my repository showcasing the projects and skills I developed during t
 
 ## 🚀 Projects Overview 🚀
 
-### 🔍 Sentiment Analysis
-Developed a model to interpret and classify emotions from textual data.
+### 🔍 Sentimental Analysis on Customer Feedback Using NLP
+Developed a model to interpret and classify emotions from customer feedback.
 
 <b>Key Features:</b>
 <ul>
